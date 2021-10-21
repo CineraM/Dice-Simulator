@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe.config
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.pdb
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\DiceSimul.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.DieForm.resources
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.Properties.Resources.resources
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\DiceSimul.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\DiceSimul.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\Desktop\Projects\Die Simul\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.pdb

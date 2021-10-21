@@ -1,0 +1,40 @@
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe.config
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.pdb
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.AssemblyReference.cache
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.Properties.Resources.resources
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.GenerateResource.cache
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.pdb
+C:\Users\Matias\source\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.DieForm.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe.config
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.pdb
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.AssemblyReference.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.DieForm.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.Properties.Resources.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.GenerateResource.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.CoreCompileInputs.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\repos\Porjet1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.pdb
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe.config
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.pdb
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.AssemblyReference.cache
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.DieForm.resources
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.Properties.Resources.resources
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.GenerateResource.cache
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.CoreCompileInputs.cache
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.exe
+C:\Users\Ciner\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.pdb
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe.config
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\bin\Debug\Porjet1_DieClass.pdb
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.AssemblyReference.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.DieForm.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.Properties.Resources.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.GenerateResource.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.csproj.CoreCompileInputs.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.exe
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Porject 1\Project1_DieClass\Porjet1_DieClass\obj\Debug\Porjet1_DieClass.pdb
